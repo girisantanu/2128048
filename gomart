@@ -1,0 +1,47 @@
+[08-05-2024 10:40 AM] SANTANU: http://20.244.56.144/test/register
+
+{
+
+"companyName": "goMart",
+
+"ownerName": "Rahul",
+
+"rollNo": "1",
+
+"ownerEmail": "rahul@abc.edu",
+
+"accessCode": "FKDLjg"
+
+}
+[08-05-2024 10:41 AM] SANTANU: {
+
+"companyName": "goMart",
+
+"clientID": "37bb493c-73d3-47ea-8675-21f66ef9b735",
+
+"clientSecret": "HVIQBVbqmTGEmaED",
+
+"ownerName": "Rahul",
+
+"ownerEmail": "rahul@abc.edu",
+
+"rollNo":"1",
+
+}
+[08-05-2024 10:41 AM] SANTANU: http://20.244.56.144/test/auth
+
+{
+
+"companyName": "goMart",
+
+"clientID": "37bb493c-73d3-47ea-8675-21f66ef9b735",
+
+"clientSecret": "XOyolORPasKWODAN",
+
+"ownerName": "Rahul",
+
+"ownerEmail": "rahul@abc.edu",
+
+"rollNo": "1"
+
+}
